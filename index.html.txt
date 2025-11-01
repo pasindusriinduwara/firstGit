@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1> Springboot Academy Devops </h1>
+<h1> Springboot Academy Devops Training</h1>
 </body>
 </html>
 
